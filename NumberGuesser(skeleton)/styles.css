@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+.container {
+   margin-top: 35vh;
+}
+
+body {
+   background-image: url(rad.jpg);
+   background-size: cover;
+}
+
