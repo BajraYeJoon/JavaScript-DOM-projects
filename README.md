@@ -14,7 +14,7 @@ A simple mini game of Guess a number. Player can guess a number between 1 and 10
 ## Contribute to the project
 Step 1: You can go to [this link](https://github.com/BajraYeJoon/JavaScript-DOM-projects) to fork the project. \
 Step 2:  Clone the project to your local machine.\
-Step 3: Commit and push your contribution then make a pull request 🥳.\
+Step 3: Commit and push your contribution then make a pull request 🥳.
 
 ## Show your support
 
