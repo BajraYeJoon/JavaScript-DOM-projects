@@ -5,10 +5,12 @@
 
 ### 01 - Loan Calculator
 This project helps you estimate your monthly payment and total payment on a loan. Simply enter the loan amount, the interest amount and repayment year to calculate.
+
 ![Alt Text](https://www.linkpicture.com/q/Screenshot-36_5.png)
 
 ### 02 - Number guesser
 A simple mini game of Guess a number. Player can guess a number between 1 and 10 then check it, maximum of 3 guesses for each turn 🤔. 
+
 ![Alt Text](https://www.linkpicture.com/q/Screenshot-38_5.png)
 
 ## Contribute to the project
