@@ -1,4 +1,4 @@
-# Simple Web Applications 
+# JavaScript DOM projects 
 > 2 awesome mini projects I built with HTML, CSS and JavaScript
 ## Author
 👤 **Binaya Bajracharya**  Github: [@BajraYeJoon](https://github.com/BajraYeJoon)
